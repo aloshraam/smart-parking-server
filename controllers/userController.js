@@ -1,0 +1,3 @@
+exports.registerController = (req,res) => {
+    
+}
